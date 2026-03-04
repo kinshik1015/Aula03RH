@@ -1,0 +1,14 @@
+D:\kinshik2ds\aula2vscodeterca\bin\Debug\net10.0\aula2vscodeterca.exe
+D:\kinshik2ds\aula2vscodeterca\bin\Debug\net10.0\aula2vscodeterca.deps.json
+D:\kinshik2ds\aula2vscodeterca\bin\Debug\net10.0\aula2vscodeterca.runtimeconfig.json
+D:\kinshik2ds\aula2vscodeterca\bin\Debug\net10.0\aula2vscodeterca.dll
+D:\kinshik2ds\aula2vscodeterca\bin\Debug\net10.0\aula2vscodeterca.pdb
+D:\kinshik2ds\aula2vscodeterca\obj\Debug\net10.0\aula2vscodeterca.GeneratedMSBuildEditorConfig.editorconfig
+D:\kinshik2ds\aula2vscodeterca\obj\Debug\net10.0\aula2vscodeterca.AssemblyInfoInputs.cache
+D:\kinshik2ds\aula2vscodeterca\obj\Debug\net10.0\aula2vscodeterca.AssemblyInfo.cs
+D:\kinshik2ds\aula2vscodeterca\obj\Debug\net10.0\aula2vscodeterca.csproj.CoreCompileInputs.cache
+D:\kinshik2ds\aula2vscodeterca\obj\Debug\net10.0\aula2vscodeterca.dll
+D:\kinshik2ds\aula2vscodeterca\obj\Debug\net10.0\refint\aula2vscodeterca.dll
+D:\kinshik2ds\aula2vscodeterca\obj\Debug\net10.0\aula2vscodeterca.pdb
+D:\kinshik2ds\aula2vscodeterca\obj\Debug\net10.0\aula2vscodeterca.genruntimeconfig.cache
+D:\kinshik2ds\aula2vscodeterca\obj\Debug\net10.0\ref\aula2vscodeterca.dll
