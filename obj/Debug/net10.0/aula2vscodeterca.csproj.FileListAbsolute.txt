@@ -12,3 +12,4 @@ D:\kinshik2ds\aula2vscodeterca\obj\Debug\net10.0\refint\aula2vscodeterca.dll
 D:\kinshik2ds\aula2vscodeterca\obj\Debug\net10.0\aula2vscodeterca.pdb
 D:\kinshik2ds\aula2vscodeterca\obj\Debug\net10.0\aula2vscodeterca.genruntimeconfig.cache
 D:\kinshik2ds\aula2vscodeterca\obj\Debug\net10.0\ref\aula2vscodeterca.dll
+D:\kinshik2ds\aula2vscodeterca\obj\Debug\net10.0\aula2vscodeterca.sourcelink.json
